@@ -1,0 +1,16 @@
+NUEVOS PRÉSTAMOS DE LIBROS
+
+Préstamo 1:
+Usuario: Carlos Pérez.
+Libro: El alquimista.
+Estado: Pendiente.
+
+Préstamo 2:
+Usuario: María Torres.
+Libro: Orgullo y prejuicio.
+Estado: Devuelto.
+
+Préstamo 3:
+Usuario: José Ramírez.
+Libro: Rayuela.
+Estado: Pendiente.
