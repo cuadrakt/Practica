@@ -1,0 +1,6 @@
+REGISTRO DE PRÉSTAMOS
+
+Préstamo 1: Cien años de soledad.
+Préstamo 2: El principito.
+
+Estado: Pendiente de devolución.

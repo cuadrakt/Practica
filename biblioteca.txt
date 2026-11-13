@@ -1,0 +1,7 @@
+SISTEMA DE BIBLIOTECA
+
+Este proyecto tiene como finalidad organizar la información de una biblioteca.
+
+Permite registrar libros, controlar préstamos y mantener información de los usuarios.
+
+El sistema busca facilitar la administración de los recursos bibliográficos.

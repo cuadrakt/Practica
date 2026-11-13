@@ -1,0 +1,7 @@
+REGISTRO DE USUARIOS
+
+Usuario 1: Carlos Pérez.
+Usuario 2: María Torres.
+Usuario 3: José Ramírez.
+
+Los usuarios registrados pueden solicitar préstamos de libros.
